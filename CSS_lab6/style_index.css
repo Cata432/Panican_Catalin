@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+h1, h2, h3 {
+          background-color: aqua;
+          font-family: "DM Serif Display" sans-serif; 
+}
+.red-text {color:red;}
+body {
+background-color: linen;
+}     
