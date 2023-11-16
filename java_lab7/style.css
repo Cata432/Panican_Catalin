@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+h1, h2, h3 {
+          background-color: linen;
+          font-family: "ubuntu", sans-serif;
+}
+img {
+         width: 200px;
+         height: 200px;
+         margin-left: 130px;
+}
+table, th, td{
+        border: 2px solid black
+}
+.blue-text {color:DodgerBlue;}
+#rounded-img {border-radius: 200px;}
+body {
+background-color: Lavender;
+}     
